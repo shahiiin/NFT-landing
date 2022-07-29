@@ -8,7 +8,7 @@ import Clients from "./components/Clients";
 import Release from "./components/Release";
 import Like from "./components/Like";
 import Footer from "./components/Footer";
-
+import './sass/index.scss'
 
 function App() {
   return (
